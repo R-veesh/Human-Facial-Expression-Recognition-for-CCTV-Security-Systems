@@ -22,5 +22,6 @@ env/
 # OS files
 Thumbs.db
 TryImages/
+screenshots/
 *REPORT.md
 *REPORT.docx
