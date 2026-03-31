@@ -1,0 +1,24 @@
+# Dataset
+dataset/
+
+# Saved models
+saved_model/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+env/
+.env/
+
+# OS files
+Thumbs.db
+.DS_Store
