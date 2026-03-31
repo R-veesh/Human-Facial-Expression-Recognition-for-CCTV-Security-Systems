@@ -2,7 +2,7 @@
 dataset/
 
 # Saved models
-saved_model/
+#saved_model/
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
@@ -21,4 +21,6 @@ env/
 
 # OS files
 Thumbs.db
-.DS_Store
+TryImages/
+*REPORT.md
+*REPORT.docx
